@@ -10,4 +10,13 @@
 }
 #divcontainer{
    background-color:silver; 
-};
+}
+footer{
+   background-color: lightblue 
+}
+#footerMessage{
+  background-color: (0, 0, 0, 0.2) 
+}
+#div2{
+     backgroundolor: (0, 0, 0, 0.2)
+}
