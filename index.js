@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    console.log("document is ready")
+    
     const projects= [
         {
           "title": "Team Profile Builder",
@@ -45,7 +45,7 @@ $(document).ready(function(){
         } 
         
       ]
-      console.log(projects[0].title)
+      
      
     $.each(projects, function(i,projectIndex){
         var projectCard =` <div
